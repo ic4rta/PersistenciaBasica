@@ -1,7 +1,4 @@
 # Modify-Registry
-Modifies the registry to run a program at computer startup
+Modifica el registro para ejecutar este programa el prender la computadora
 
-
-Try keeping antivirus disabled and running it in a VM.
-
-<tchar.h> have to be ported to libiconv or ICU
+<tchar.h> debe de estar portada en libiconv o ICU
